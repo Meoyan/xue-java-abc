@@ -3,7 +3,8 @@
 
 ## 环境设置
 
-JDK/IDE/Maven的安装
+[JDK/IDE/Maven的安装](https://github.com/Meoyan/xue-java-abc/blob/master/doc/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE.md)
+
 
 ## 语言基础
 
