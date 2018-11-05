@@ -15,7 +15,7 @@ JDK/IDE/Maven的安装
 
 ## 继承和多态
 
-extend和implements/多态和泛型 (了解基本概念和看懂基本用法)
+extend和implements/多态和泛型   `了解基本概念和看懂基本用法`
 
 ## 多线程
 
