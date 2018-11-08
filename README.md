@@ -10,7 +10,7 @@
 ## 语言基础
 
 关键字/标识符/注视/变量和常量/**流程控制**/**函数**/数组
-[要点在这里～]()
+[要点在这里～](https://github.com/Meoyan/xue-java-abc/blob/master/doc/%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80.md)
 
 ## 面向对象
 
